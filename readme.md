@@ -18,7 +18,7 @@ Fully web-based environment.
 * Node.js
 * Socket.io
 * Javascript (jQuery)
-* three.js
+* d3.js
 * Processing.js
 * HTML5 canvas
 * iPhone/iPad Safari iOS touch event API
