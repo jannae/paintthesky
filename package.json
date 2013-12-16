@@ -1,0 +1,20 @@
+{
+    "name": "paintsky",
+    "description": "Play around in the cosmos",
+    "private": true,
+    "scripts": {
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/jannae/paintsky.git"
+    },
+    "version": "0.0.1",
+    "dependencies": {
+        "socket.io": "latest"
+    },
+    "engines": {
+        "node": "0.10.x",
+        "npm": "1.2.x"
+    }
+}
