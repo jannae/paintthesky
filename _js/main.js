@@ -43,8 +43,6 @@ function cleanStr(str) {
     }
 }
 
-
-
 var i = 0;
 
 var svg = d3.select("#run").append("svg")
@@ -69,7 +67,6 @@ function particle(mx,my) {
         .style("stroke-opacity", 1e-6)
         .remove();
 }
-
 
 function mapToRange(value, srcLow, srcHigh, dstLow, dstHigh){
   // value is outside source range return fail
